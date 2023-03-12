@@ -1,2 +1,2 @@
-# dclm-gck-website-v2
+# DCLM GCK Website
 Global Crusade with Kumuyi
